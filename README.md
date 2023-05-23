@@ -1,5 +1,5 @@
 # Open-source engine projects for profiling
-By Gabriel C. Ullmann, 2022.
+By Gabriel C. Ullmann, 2023.
 
 ## How we use these projects
 - BaseGame: an "empty" project with one scene and nothing else. When run with Callgrind, it allows us to see the call graph of Godot "core" without the interference of other feature-specific calls.
